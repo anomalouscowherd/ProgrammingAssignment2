@@ -1,4 +1,8 @@
-## OK, So I was being a bit obnoxious in my last commit.  
+## OK, So I was being a bit obnoxious in my last commit.
+## This program is just a reworking of the example code 
+## with the mean function replaced by solve and the variable
+## names changed to reflect the matrix vs. vector switch.
+##
 ## This is an explanation of what is happening here:
 ## you run this set of functions like so:
 ## 	example_matrix <- matrix(c(1,2,3,.5),2,2)
